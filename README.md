@@ -4,6 +4,7 @@
 A recent project has been completed using Excel, titled "Bike Sales Dashboard." The project's main goal was to craft a dashboard within Excel to examine bike sales data across different regions, occupations, and factors impacting bike demand.
 
 ✔️ Initially, comprehending the provided dataset.
+
 ✔️ Subsequently, data cleaning was conducted to eliminate duplicates, spaces, and special characters, as well as to carry out find and replace operations and formatting adjustments.
 
 ✔️ Custom columns (Age Brackets) were devised to extract additional insights from the dataset.
