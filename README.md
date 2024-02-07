@@ -9,15 +9,15 @@ A recent project has been completed using Excel, titled "Bike Sales Dashboard." 
 
 ✔️ Custom columns (Age Brackets) were devised to extract additional insights from the dataset.
 
-✔️ Pivot tables, charts, and graphs were generated 📊 to condense the data and offer visual summaries for quick comprehension.
+✔️ Pivot tables, charts, and graphs were generated to condense the data and offer visual summaries for quick comprehension.
 
 ✔️ Lastly, an Excel dashboard was constructed featuring slicers, enabling users to interact with the data and explore it from various perspectives.
 
-Key findings:
-
-- The highest average income among males is $60,124, indicating a higher bike purchase rate compared to females, who have an average income 7% lower than males.
+## Principal discoveries:
 
 - Individuals in the Middle Age group (31-54 years) exhibit a bike purchase rate four times greater than that of the Adolescent and Old age groups.
+
+- The highest average income among males is $60,124, indicating a higher bike purchase rate compared to females, who have an average income 7% lower than males.
 
 - Customers tend to acquire bikes more frequently for shorter commutes (0-1 miles) than for longer commutes (10 miles +).
 
