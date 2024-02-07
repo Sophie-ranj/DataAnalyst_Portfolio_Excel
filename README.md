@@ -3,7 +3,7 @@
 
 A recent project has been completed using Excel, titled "Bike Sales Dashboard." The project's main goal was to craft a dashboard within Excel to examine bike sales data across different regions, occupations, and factors impacting bike demand.
 
-:red_circle: Initially, comprehending the provided dataset.
+✔️ Initially, comprehending the provided dataset.
 
 ✔️ Subsequently, data cleaning was conducted to eliminate duplicates, spaces, and special characters, as well as to carry out find and replace operations and formatting adjustments.
 
@@ -15,11 +15,11 @@ A recent project has been completed using Excel, titled "Bike Sales Dashboard." 
 
 ## Principal discoveries:
 
-- Individuals in the Middle Age group (31-54 years) exhibit a bike purchase rate four times greater than that of the Adolescent and Old age groups.
+:red_circle:  Individuals in the Middle Age group (31-54 years) exhibit a bike purchase rate four times greater than that of the Adolescent and Old age groups.
 
-- The highest average income among males is $60,124, indicating a higher bike purchase rate compared to females, who have an average income 7% lower than males.
+:red_circle:  The highest average income among males is $60,124, indicating a higher bike purchase rate compared to females, who have an average income 7% lower than males.
 
-- Customers tend to acquire bikes more frequently for shorter commutes (0-1 miles) than for longer commutes (10 miles +).
+:red_circle:  Customers tend to acquire bikes more frequently for shorter commutes (0-1 miles) than for longer commutes (10 miles +).
 
 
 
