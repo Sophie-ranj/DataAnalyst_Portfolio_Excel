@@ -12,7 +12,12 @@ A recent project has been completed using Excel, titled "Bike Sales Dashboard." 
 ✔️ Pivot tables, charts, and graphs were generated to condense the data and offer visual summaries for quick comprehension.
 
 ✔️ Lastly, an Excel dashboard was constructed featuring slicers, enabling users to interact with the data and explore it from various perspectives.
+
+
+
 ![excel](https://github.com/Sophie-ranj/DataAnalyst_Portfolio_Excel/assets/21998543/8df76a66-900d-4b0c-aa18-c90e08f98505)
+
+
 
 ## Principal discoveries:
 
